@@ -1,4 +1,4 @@
-# reconocimientofacial
+# Reconocimiento Facial
 Programa de python que utiliza openCV para reconocimiento facial
 
 Instalar lo siguiente:
